@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> Hi👋, I am UJJAWAL RAJ</h1>
 
-<!--
-**ujjawalrajchaurasia/ujjawalrajchaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning Python and c++.
+- 💞 I’m currently pursuing Bachelors in Computer Application.
+- 📫 Get in Touch - missonmines@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+<h2 align="center">📚 My Education </h2>
+
+- ⌚ Bachelors in Computer Application(2022-25). .
+- ⌛ Class 10th & 12th from The Chandrasheel School.
+
+
+<br>
+
+<h2 align = "center">💻 Projects  </h2>
+
+<br>
+
+<h2>⚙ Projects  </h2>
+
+| <h3>Project Name</h3> | | <h3>Techstack</h3> | <h3>Status</h3> | <h3>Progess</h3> | <h3>Link</h3> |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+|  Clock |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> |       HTML CSS JS     | Completed |      100%     |[Source Code](https://github.com/yashsrivastavaaa/Love-Calculator)|
+
+
+<br>
